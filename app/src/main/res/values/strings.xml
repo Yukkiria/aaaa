@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Note Taker</string>
+    <string name="title">title</string>
+    <string name="enter_your_note">enter your note</string>
+    <string name="settings">settings</string>
+    <string name="create">create</string>
+    <string name="action_item1">item1</string>
+    <string name="action_item2">item2</string>
+    <string name="action_item3">item3</string>
+    <string name="update">update</string>
+    <string name="cancel">cancel</string>
+    <string name="delete">delete</string>
+    <string name="pref_style">Стиль</string>
+    <string name="pref_style_regular">Нормальный</string>
+    <string name="pref_style_bold">Полужирный</string>
+    <string name="pref_style_italic">Курсив</string>
+    <string name="pref_size">Размер</string>
+</resources>
